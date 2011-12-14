@@ -1,2 +1,8 @@
 Better organize the github repositories and whom you follow.
 
+TODO
+====
+- Deciding whether to use server side API or use client side callback or cross origin request??
+- user registration
+- display following users and watched repos
+- hover list of circle. Add to the circle
